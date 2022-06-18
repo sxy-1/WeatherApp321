@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 include ':app'
+=======
+include ':app'
+>>>>>>> 9d48b88 (oncreate)
 rootProject.name = "WeatherApp321"
